@@ -23,8 +23,8 @@ These scripts represent the original standalone workflow before the development 
 
 R scripts for the multiomics analysis in the fourth Dip-C paper, which introduced Pop-C and vDip-C:
 
-> Tan L\*, Xing D, Daley N, Xie XS. Three-dimensional genome structures of single diploid human cells. *Science* **380**, 1065-1070 (2023). [doi:10.1126/science.adh3253](https://doi.org/10.1126/science.adh3253)
+> Tan L, Shi J, Moghadami S, Parasar B, Wright CP, Seo Y, Vallejo K, Cobos I, Duncan L, Chen R, Deisseroth K. Lifelong restructuring of 3D genome architecture in cerebellar granule cells. *Science* **381**, 1112-1119 (2023). [doi:10.1126/science.adh3253](https://doi.org/10.1126/science.adh3253)
 
-This paper studied the human and mouse brain (cortex and cerebellum). The R scripts here cover multiome analysis using ArchR, LIGER, and Seurat.
+This paper resolved the first 3D genome structures of single cerebellar cells and created life-spanning 3D genome atlases for both humans and mice. The R scripts here cover multiome analysis using ArchR, LIGER, and Seurat.
 
 - Raw and processed data: [PRJNA933352](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA933352)
